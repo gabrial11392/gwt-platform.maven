@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.philbeaudoin</groupId>
+  <artifactId>gwtp</artifactId>
+  <version>0.2</version>
+  <versioning>
+    <versions>
+      <version>0.2</version>
+      <version>0.1</version>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20100610163139</lastUpdated>
+  </versioning>
+</metadata>
