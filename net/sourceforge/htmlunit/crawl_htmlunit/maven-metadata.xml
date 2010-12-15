@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sourceforge.htmlunit</groupId>
+  <artifactId>crawl_htmlunit</artifactId>
+  <versioning>
+    <release>r5662-gae</release>
+    <versions>
+      <version>r5662-gae</version>
+    </versions>
+    <lastUpdated>20101215195100</lastUpdated>
+  </versioning>
+</metadata>
